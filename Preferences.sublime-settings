@@ -9,7 +9,7 @@
 	"Seti_sb_tree_small": true,
 	"Seti_tabs_small": true,
 	"caret_style": "phase",
-	"color_scheme": "Packages/User/SublimeLinter/Seti Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Theme - Seti Monokai/scheme/Seti Monokai.tmTheme",
 	"copy_with_empty_selection": false,
 	"enable_telemetry": "disabled",
 	"font_size": 11,
